@@ -1,5 +1,5 @@
 <?php
-include('../controller/config/database.php');
+include('../model/config/database.php');
 ?>
 
 <!DOCTYPE html>
